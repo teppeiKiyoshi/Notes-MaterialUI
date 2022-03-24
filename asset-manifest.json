@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notes-MaterialUI/static/css/main.161cc992.css",
+    "main.js": "/Notes-MaterialUI/static/js/main.b98ec680.js",
+    "index.html": "/Notes-MaterialUI/index.html",
+    "main.161cc992.css.map": "/Notes-MaterialUI/static/css/main.161cc992.css.map",
+    "main.b98ec680.js.map": "/Notes-MaterialUI/static/js/main.b98ec680.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.161cc992.css",
+    "static/js/main.b98ec680.js"
+  ]
+}
